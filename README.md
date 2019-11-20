@@ -21,4 +21,4 @@ The PDF will be populated with the following:
 * Number of GitHub stars
 * Number of users following
 
-SCREEN CAPTURE URL: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/ng/app/app.html#/files/b936fe08-a8cb-4ed5-y794-c05053e86712
+SCREEN CAPTURE URL: https://drive.google.com/file/d/1S9dhDdHMMihIb7x0zdGop-G2KEZ7nhRu/view
